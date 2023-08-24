@@ -2,7 +2,7 @@
 
 ## 📖 Introdução
 
-Projeto simulando conta bancaria com java é um projeto para aplicar tudo o que foi aprendido até então no curso Santander Bootcamp 2023 - Backend Java, trazendo uma pequena aplicação onde é possível digitar de forma interativa, com a classe Scanner, dados relacionados a conta bancária que posteriormente será imprimida na tela os valores.
+Projeto simulando conta bancaria com java é um projeto para aplicar tudo o que foi aprendido até então no curso Santander Bootcamp 2023 - Backend Java, trazendo uma pequena aplicação onde é possível digitar de forma interativa, com a classe Scanner, dados relacionados a conta bancária no terminal que posteriormente será imprimida na tela os valores.
 
 Os conteúdos principais a serem explorados são:
 
