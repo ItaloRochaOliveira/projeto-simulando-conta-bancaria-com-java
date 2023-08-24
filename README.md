@@ -14,7 +14,7 @@ Os conteúdos principais a serem explorados são:
 
 ### Requisição dos dados:
 
-| <img src="/assents/requisicao-de-dados.png" width=190 padding=10><br><sub>requisição de valores</sub> |
+| <img src="/assents/requisicao-de-dados.png" width=100%><br><sub>requisição de valores</sub> |
 | :---------------------------------------------------------------------------------------------------: |
 
 ### impressão dos valores:
